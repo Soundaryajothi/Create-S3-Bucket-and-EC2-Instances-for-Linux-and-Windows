@@ -38,7 +38,7 @@ Complete instance configuration and Launch.
 Connect to Instances
 
 ## Output 
-## S3 BUCKET:
+## S3 BUCKET
 ## Creation of bucket 
 
 ![Screenshot 2024-08-30 101306](https://github.com/user-attachments/assets/936f0740-d306-46fd-91da-c72bfa251f8c)
@@ -53,6 +53,8 @@ Connect to Instances
 ![Screenshot 2024-08-30 105821](https://github.com/user-attachments/assets/b9e3ccd5-3918-45f1-a44f-49fda43782c6)
 
 ![Screenshot 2024-08-30 105839](https://github.com/user-attachments/assets/1864205f-14b6-40e0-89d6-01ae8dfe784b)
+
+## EC2
 
 ## EC2 Instances for Linux and windows
 
