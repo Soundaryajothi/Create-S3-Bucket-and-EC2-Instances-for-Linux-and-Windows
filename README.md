@@ -37,7 +37,7 @@ Complete instance configuration and Launch.
 ## Step 5
 Connect to Instances
 
-## Output 
+## OUTPUT 
 ## S3 BUCKET
 ## Creation of bucket 
 
@@ -73,7 +73,7 @@ Connect to Instances
 
 ![image](https://github.com/user-attachments/assets/22316c2a-0438-472e-8377-c42d5035d712)
 
-## Result
+## RESULT
 
 S3 bucket and launch EC2 instances for Linux and Windows is successfully completed.
 
